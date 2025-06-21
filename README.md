@@ -22,7 +22,7 @@ This is a clean and professional biography-style website built with HTML and CSS
 
  🛠️ Technologies Used
 - HTML5
-- CSS3
+- CSS3(little)
 - Font Awesome (optional)
 - Responsive design principles
 
